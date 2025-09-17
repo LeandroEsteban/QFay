@@ -1,6 +1,14 @@
 # QFai
 Este repositorio contiene todo el proceso de UXD para la aplicación ‘QFai’. Esta app esta enfocada en crear y unirse a panoramas.
 
+Equipo
+- Francisco Barrozo (f.barrozo02@ufromail.cl)
+- Lian Canio (l.canio02@ufromail.cl)
+- Leandro Matamoros (l.matamoros01@ufromail.cl)
+- Antonia Paredes (a.paredes03@ufromail.cl)
+- Joaquín Silva (j.silva23@ufromail.cl)
+
+
 # 1. Introducción  
 
 ## 1.1 Planteamiento del problema  
