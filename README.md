@@ -65,7 +65,7 @@ El **Persona Canvas** nos ayudó a representar de forma clara las característic
 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/70b02b15-a616-4039-9200-288450f1e102" />
 
-# 3 Benchmark
+# 3. Benchmark
 
 Para identificar buenas prácticas y oportunidades de mejora en el diseño de **QFai**, realizamos un **benchmark de experiencia de usuario (UXD)**.  
 Este proceso consistió en analizar aplicaciones similares o relacionadas, comparando sus características con el objetivo de extraer aprendizajes que nos permitieran construir una propuesta más sólida.  
